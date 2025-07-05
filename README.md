@@ -12,6 +12,8 @@ Automation enthusiast | DevOps Explorer | Builder of practical workflows and VPN
 
 ## 🧰 Languages and Tools
 
+## 🧰 Languages and Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,6 +24,7 @@ Automation enthusiast | DevOps Explorer | Builder of practical workflows and VPN
   <img src="https://img.shields.io/badge/YAML-C4AE35?style=for-the-badge&logo=yaml&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 
 ## 📊 GitHub Stats
 
